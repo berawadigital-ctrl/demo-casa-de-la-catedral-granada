@@ -1,0 +1,873 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-casa-de-la-catedral-granada",
+ "source_site": "https://casadelacatedral.com/",
+ "source_read_at": "2026-10-29T00:50:00+01:00",
+ "note": "Respuestas solo con datos publicados en casadelacatedral.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "alojamiento",
+   "keys": {
+    "es": [
+     "alojamiento",
+     "tipos de",
+     "estudio",
+     "habitacion",
+     "apartamento",
+     "capacidad",
+     "cuantas personas",
+     "cuantas habitaciones",
+     "familiar"
+    ],
+    "ca": [
+     "allotjament",
+     "tipus d",
+     "estudi",
+     "habitacio",
+     "apartament",
+     "capacitat",
+     "quantes persones",
+     "quantes habitacions",
+     "familiar"
+    ],
+    "en": [
+     "accommodation",
+     "types of",
+     "studio",
+     "room",
+     "apartment",
+     "capacity",
+     "how many guests",
+     "how many rooms",
+     "family"
+    ],
+    "fr": [
+     "hebergement",
+     "types de",
+     "studio",
+     "chambre",
+     "appartement",
+     "capacite",
+     "combien de personnes",
+     "combien de chambres",
+     "familial"
+    ]
+   },
+   "a": {
+    "es": "Tiene 10 habitaciones en 3 tipos de estudio: Doble (2 personas, 1 cama doble, 20 m²), Doble Superior (2 personas, 1 cama doble, 25 m²) y Familiar (3 personas, 1 sofá cama y 2 camas individuales, 30 m²).",
+    "ca": "Té 10 habitacions en 3 tipus d'estudi: Doble (2 persones, 1 llit doble, 20 m²), Doble Superior (2 persones, 1 llit doble, 25 m²) i Familiar (3 persones, 1 sofà llit i 2 llits individuals, 30 m²).",
+    "en": "It has 10 rooms in 3 studio types: Double (2 guests, 1 double bed, 20 m²), Superior Double (2 guests, 1 double bed, 25 m²) and Family (3 guests, 1 sofa bed and 2 single beds, 30 m²).",
+    "fr": "Il compte 10 chambres en 3 types de studio : Double (2 personnes, 1 lit double, 20 m²), Double Supérieur (2 personnes, 1 lit double, 25 m²) et Familial (3 personnes, 1 canapé-lit et 2 lits simples, 30 m²)."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/preguntas-frecuentes/",
+     "quote": "cuenta con un total de 10 confortables habitaciones"
+    },
+    {
+     "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-doble/",
+     "quote": "Capacidad 2 personas Tipo 1 cama doble Tamaño 20 m²"
+    },
+    {
+     "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-doble-superior/",
+     "quote": "Capacidad 2 personas Tipo 1 cama doble Tamaño 25 m²"
+    },
+    {
+     "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-familiar/",
+     "quote": "Capacidad 3 personas Tipo 1 sofá cama y 2 camas individuales Tamaño 30 m²"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento y cocina",
+   "keys": {
+    "es": [
+     "cocina",
+     "nevera",
+     "microondas",
+     "banera",
+     "ducha",
+     "secador",
+     "calefaccion",
+     "aire acondicionado",
+     "television",
+     " tv",
+     "caja fuerte",
+     "equipamiento",
+     "que incluye",
+     "hervidor"
+    ],
+    "ca": [
+     "cuina",
+     "nevera",
+     "microones",
+     "banyera",
+     "dutxa",
+     "assecador",
+     "calefaccio",
+     "aire condicionat",
+     "televisio",
+     " tv",
+     "caixa forta",
+     "equipament",
+     "que inclou",
+     "bullidor"
+    ],
+    "en": [
+     "kitchen",
+     "fridge",
+     "microwave",
+     "bathtub",
+     "shower",
+     "hairdryer",
+     "heating",
+     "air conditioning",
+     "television",
+     " tv",
+     "safe",
+     "equipment",
+     "what is included",
+     "kettle"
+    ],
+    "fr": [
+     "cuisine",
+     "refrigerateur",
+     "frigo",
+     "micro ondes",
+     "baignoire",
+     "douche",
+     "seche cheveux",
+     "chauffage",
+     "climatisation",
+     "television",
+     " tv",
+     "coffre fort",
+     "equipement",
+     "qu est ce qui est inclus",
+     "bouilloire"
+    ]
+   },
+   "a": {
+    "es": "Cada estudio tiene una pequeña cocina con microondas y nevera (sin fuegos ni utensilios para cocinar), baño independiente con ducha y secador de pelo, calefacción, aire acondicionado, TV digital de pantalla plana y caja fuerte.",
+    "ca": "Cada estudi té una petita cuina amb microones i nevera (sense focs ni estris per cuinar), bany independent amb dutxa i assecador de cabells, calefacció, aire condicionat, TV digital de pantalla plana i caixa forta.",
+    "en": "Each studio has a small kitchen with microwave and fridge (no hobs or cooking utensils), a separate bathroom with shower and hairdryer, heating, air conditioning, a flat-screen digital TV and a safe.",
+    "fr": "Chaque studio a une petite cuisine avec micro-ondes et réfrigérateur (sans plaques ni ustensiles de cuisine), une salle de bain indépendante avec douche et sèche-cheveux, chauffage, climatisation, une TV numérique à écran plat et un coffre-fort."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-doble/",
+     "quote": "dispone de microondas y nevera para guardar tus bebidas y tentempiés"
+    },
+    {
+     "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-doble/",
+     "quote": "No disponemos de fuegos, vitro cerámica ni utensilios para cocinar"
+    },
+    {
+     "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-doble/",
+     "quote": "Cómodo cuarto de baño independiente con ducha y secador de pelo"
+    },
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "Calefacción Aire acondicionado Ventilador Plancha"
+    },
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "TV digital de pantalla plana"
+    },
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "Caja fuerte"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "precios",
+   "keys": {
+    "es": [
+     "precio",
+     "tarifa",
+     "cuanto cuesta",
+     "cuanto vale",
+     "euros",
+     "por noche",
+     "barato",
+     "cuanto"
+    ],
+    "ca": [
+     "preu",
+     "tarifa",
+     "quant costa",
+     "quant val",
+     "euros",
+     "per nit",
+     "barat"
+    ],
+    "en": [
+     "price",
+     "rate",
+     "how much",
+     "euro",
+     "per night",
+     "cheap",
+     " cost"
+    ],
+    "fr": [
+     "prix",
+     "tarif",
+     "combien coute",
+     "combien vaut",
+     "euros",
+     "par nuit",
+     "pas cher"
+    ]
+   },
+   "a": {
+    "es": "Su web no publica tarifas: dice que el precio por noche depende de la fecha y del tipo de habitación. Consúltalo en su sistema de reserva online o llamando al +34 958 25 35 95.",
+    "ca": "La seva web no publica tarifes: diu que el preu per nit depèn de la data i del tipus d'habitació. Consulta-ho al seu sistema de reserva en línia o trucant al +34 958 25 35 95.",
+    "en": "Their website does not publish rates: it says the price per night depends on the date and the room type. Check it in their online booking system or call +34 958 25 35 95.",
+    "fr": "Leur site ne publie pas de tarifs : il indique que le prix par nuit dépend de la date et du type de chambre. Consultez-le dans leur système de réservation en ligne ou appelez le +34 958 25 35 95."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/preguntas-frecuentes/",
+     "quote": "El precio por noche en Casa de la Catedral dependerá siempre de la fecha en la que se desee realizar la estancia y del tipo de habitación"
+    },
+    {
+     "url": "https://casadelacatedral.com/preguntas-frecuentes/",
+     "quote": "!€"
+    },
+    {
+     "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-doble/",
+     "quote": "!€"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K04",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato",
+     "animal"
+    ],
+    "ca": [
+     "mascot",
+     "gos",
+     "gat",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     "cat",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "chien",
+     "chat",
+     "animal"
+    ]
+   },
+   "a": {
+    "es": "Su web indica que no se admiten mascotas, y que está prohibido fumar en todo el alojamiento.",
+    "ca": "La seva web indica que no s'admeten mascotes, i que està prohibit fumar a tot l'allotjament.",
+    "en": "Their website says pets are not allowed, and smoking is prohibited throughout the property.",
+    "fr": "Leur site indique que les animaux ne sont pas admis, et qu'il est interdit de fumer dans tout l'hébergement."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "Mascotas No se admiten"
+    },
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "Prohibido fumar en todo el alojamiento"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "aparcamiento",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcar",
+     "aparcamiento",
+     "coche",
+     "garaje"
+    ],
+    "ca": [
+     "parking",
+     "pàrquing",
+     "parquing",
+     "aparcar",
+     "aparcament",
+     "cotxe",
+     "garatge"
+    ],
+    "en": [
+     "parking",
+     "park",
+     "car",
+     "garage"
+    ],
+    "fr": [
+     "parking",
+     "stationn",
+     "voiture",
+     "garage"
+    ]
+   },
+   "a": {
+    "es": "No hay parking en el alojamiento, pero su web indica un servicio de parking a solo 2 minutos de la casa.",
+    "ca": "No hi ha pàrquing a l'allotjament, però la seva web indica un servei de pàrquing a només 2 minuts de la casa.",
+    "en": "There is no parking at the property, but their website mentions a parking service just 2 minutes from the house.",
+    "fr": "Il n'y a pas de parking à l'hébergement, mais leur site mentionne un service de parking à seulement 2 minutes de la maison."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "Aparcamiento No hay parking"
+    },
+    {
+     "url": "https://casadelacatedral.com/localizacion/",
+     "quote": "Ofrecemos servicio de parking a tan sólo 2 min. de nuestra casa"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "check-in y cancelación",
+   "keys": {
+    "es": [
+     "check in",
+     "checkin",
+     "check out",
+     "checkout",
+     "hora de llegada",
+     "hora de entrada",
+     "hora de salida",
+     "cancelar",
+     "cancelacion",
+     "reembols",
+     "entrada",
+     "salida"
+    ],
+    "ca": [
+     "check in",
+     "checkin",
+     "check out",
+     "checkout",
+     "hora d arribada",
+     "hora d entrada",
+     "hora de sortida",
+     "cancel",
+     "reemborsa",
+     "entrada",
+     "sortida"
+    ],
+    "en": [
+     "check in",
+     "checkin",
+     "check out",
+     "checkout",
+     "arrival time",
+     "departure time",
+     "cancel",
+     "refund"
+    ],
+    "fr": [
+     "check in",
+     "checkin",
+     "check out",
+     "checkout",
+     "heure d arrivee",
+     "heure de depart",
+     "annul",
+     "rembours"
+    ]
+   },
+   "a": {
+    "es": "El check-in es de 14:00 a 00:00 y el check-out de 08:00 a 12:00. La tarifa flexible permite cancelar hasta 48 horas antes de las 00h de la fecha de check-in; la no reembolsable no puede cancelarse ni modificarse.",
+    "ca": "El check-in és de 14:00 a 00:00 i el check-out de 08:00 a 12:00. La tarifa flexible permet cancel·lar fins a 48 hores abans de les 00h de la data de check-in; la no reemborsable no es pot cancel·lar ni modificar.",
+    "en": "Check-in is from 14:00 to 00:00 and check-out from 08:00 to 12:00. The flexible rate allows cancelling up to 48 hours before 00:00 on the check-in date; the non-refundable rate cannot be cancelled or changed.",
+    "fr": "Le check-in est de 14:00 à 00:00 et le check-out de 08:00 à 12:00. Le tarif flexible permet d'annuler jusqu'à 48 heures avant 00h à la date du check-in ; le tarif non remboursable ne peut être ni annulé ni modifié."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "check-in entre las 14:00 y las 00:00h y el check-out entre las 08:00h y las 12:00h"
+    },
+    {
+     "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-doble/",
+     "quote": "La tarifa FLEXIBLE permite cancelar la reserva hasta 48 horas antes de las 00h de la fecha del Check-in"
+    },
+    {
+     "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-doble/",
+     "quote": "La tarifa NO REENBOLSABLE no puede cancelarse ni ser modificada"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "servicios",
+   "keys": {
+    "es": [
+     "servicio",
+     "wifi",
+     "wi fi",
+     "internet",
+     "ascensor",
+     "limpieza",
+     "equipaje",
+     "accesib",
+     "movilidad reducida",
+     "recepcion",
+     "que ofrece"
+    ],
+    "ca": [
+     "servei",
+     "wifi",
+     "wi fi",
+     "internet",
+     "ascensor",
+     "neteja",
+     "equipatge",
+     "accessib",
+     "mobilitat reduida",
+     "recepcio",
+     "que ofereix"
+    ],
+    "en": [
+     "service",
+     "wifi",
+     "wi fi",
+     "internet",
+     "lift",
+     "elevator",
+     "cleaning",
+     "luggage",
+     "accessib",
+     "reduced mobility",
+     "reception",
+     "what do you offer"
+    ],
+    "fr": [
+     "service",
+     "wifi",
+     "wi fi",
+     "internet",
+     "ascenseur",
+     "menage",
+     "bagages",
+     "accessib",
+     "mobilite reduite",
+     "reception",
+     "que proposez"
+    ]
+   },
+   "a": {
+    "es": "Su web menciona WiFi gratis en todo el establecimiento, servicio de limpieza diario, guardaequipaje, ascensor y que está adaptado para personas con movilidad reducida.",
+    "ca": "La seva web esmenta WiFi gratis a tot l'establiment, servei de neteja diari, guarda-equipatges, ascensor i que està adaptat per a persones amb mobilitat reduïda.",
+    "en": "Their website mentions free WiFi throughout the property, daily cleaning, luggage storage, a lift and that it is adapted for people with reduced mobility.",
+    "fr": "Leur site mentionne le WiFi gratuit dans tout l'établissement, le ménage quotidien, la consigne à bagages, l'ascenseur et une adaptation pour les personnes à mobilité réduite."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "WIFI disponible gratis en todo el establecimiento"
+    },
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "Servicio de limpieza diario"
+    },
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "Guardaequipaje"
+    },
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "Adaptado para personas con movilidad reducida"
+    },
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "Ascensor"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirmame",
+     "libre",
+     "fechas",
+     "contratar"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "confirma m",
+     "lliure",
+     "dates",
+     "contractar"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free studio",
+     "dates"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirmez",
+     "libre",
+     "dates"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar con el botón «Reservar» de su web (sistema de reserva online del propio alojamiento), escribir a reservas@casadelacatedral.com o llamar al +34 958 25 35 95. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar amb el botó «Reservar» de la seva web (sistema de reserva en línia del propi allotjament), escriure a reservas@casadelacatedral.com o trucar al +34 958 25 35 95. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book with the \"Reservar\" button on their website (the property's own online booking system), email reservas@casadelacatedral.com or call +34 958 25 35 95. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver avec le bouton « Reservar » de leur site (le système de réservation en ligne de l'hébergement), écrire à reservas@casadelacatedral.com ou appeler le +34 958 25 35 95. Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/",
+     "quote": "Reservar"
+    },
+    {
+     "url": "https://casadelacatedral.com/contacto/",
+     "quote": "reservas@casadelacatedral.com"
+    },
+    {
+     "url": "https://casadelacatedral.com/contacto/",
+     "quote": "+34 958 25 35 95"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "situado",
+     "mapa",
+     "centro",
+     "llegar",
+     "como llego",
+     "plaza",
+     "catedral",
+     "autobus"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "situat",
+     "mapa",
+     "centre",
+     "arribar",
+     "com arribo",
+     "placa",
+     "catedral",
+     "autobus"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "located",
+     "map",
+     "centre",
+     "get there",
+     "how do i get",
+     "square",
+     "cathedral",
+     "bus"
+    ],
+    "fr": [
+     " ou ",
+     "adresse",
+     "situe",
+     "sur la carte",
+     "centre",
+     "venir",
+     "comment arriver",
+     "place",
+     "cathedrale",
+     "bus"
+    ]
+   },
+   "a": {
+    "es": "Está en la plaza de las Pasiegas s/n (18001 Granada), frente a la entrada principal de la Catedral. Las paradas de autobús más relevantes están a 50 m.",
+    "ca": "És a la plaça de les Pasiegas s/n (18001 Granada), davant l'entrada principal de la Catedral. Les parades d'autobús més rellevants són a 50 m.",
+    "en": "It is at Plaza de las Pasiegas s/n (18001 Granada), facing the main entrance of the Cathedral. The most relevant bus stops are 50 m away.",
+    "fr": "Il est situé Plaza de las Pasiegas s/n (18001 Grenade), face à l'entrée principale de la cathédrale. Les arrêts de bus les plus importants sont à 50 m."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/localizacion/",
+     "quote": "Situados en la misma plaza, frente a la entrada principal de la Catedral"
+    },
+    {
+     "url": "https://casadelacatedral.com/contacto/",
+     "quote": "Plaza de las Pasiegas s/n 18001 Granada"
+    },
+    {
+     "url": "https://casadelacatedral.com/localizacion/",
+     "quote": "Las paradas de bus más relevantes para moverte por la ciudad están a 50 m. de distancia"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "contactar",
+     "hablar"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "contactar",
+     "parlar"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     " mail",
+     "contact"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     " mail",
+     "contact",
+     "parler"
+    ]
+   },
+   "a": {
+    "es": "Teléfono +34 958 25 35 95 y correo reservas@casadelacatedral.com; su web también tiene un formulario de contacto.",
+    "ca": "Telèfon +34 958 25 35 95 i correu reservas@casadelacatedral.com; la seva web també té un formulari de contacte.",
+    "en": "Phone +34 958 25 35 95 and email reservas@casadelacatedral.com; their website also has a contact form.",
+    "fr": "Téléphone +34 958 25 35 95 et e-mail reservas@casadelacatedral.com ; leur site a aussi un formulaire de contact."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/contacto/",
+     "quote": "+34 958 25 35 95"
+    },
+    {
+     "url": "https://casadelacatedral.com/contacto/",
+     "quote": "reservas@casadelacatedral.com"
+    },
+    {
+     "url": "https://casadelacatedral.com/contacto/",
+     "quote": "Si tienes alguna duda puedes ponerte en contacto con nosotros"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "empresa",
+     "razon social",
+     "cif",
+     "quien es"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "empresa",
+     "rao social",
+     "cif",
+     "qui es"
+    ],
+    "en": [
+     "owner",
+     "owns",
+     "company",
+     "legal name",
+     "cif",
+     "who is"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "societe",
+     "raison sociale",
+     "cif",
+     "qui est"
+    ]
+   },
+   "a": {
+    "es": "Su aviso legal indica como titular del dominio a Catedral Suites S.L. (CIF B19579523), con domicilio a estos efectos en la calle Colegio Catalino 10, Granada.",
+    "ca": "El seu avís legal indica com a titular del domini Catedral Suites S.L. (CIF B19579523), amb domicili als efectes al carrer Colegio Catalino 10, Granada.",
+    "en": "Their legal notice names Catedral Suites S.L. (CIF B19579523) as the domain owner, with its address for these purposes at Calle Colegio Catalino 10, Granada.",
+    "fr": "Leurs mentions légales indiquent Catedral Suites S.L. (CIF B19579523) comme titulaire du domaine, avec adresse à ces fins Calle Colegio Catalino 10, Grenade."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/aviso-legal/",
+     "quote": "La empresa titular de dominio web es Catedral Suites S.L."
+    },
+    {
+     "url": "https://casadelacatedral.com/aviso-legal/",
+     "quote": "C.I.F.: B19579523"
+    },
+    {
+     "url": "https://casadelacatedral.com/aviso-legal/",
+     "quote": "Calle Colegio Catalino 10, 18001 Granada"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "idiomas",
+   "keys": {
+    "es": [
+     "idioma",
+     "hablan",
+     "ingles",
+     "espanol"
+    ],
+    "ca": [
+     "idioma",
+     "parlen",
+     "angles",
+     "castella"
+    ],
+    "en": [
+     "language",
+     "speak",
+     "english",
+     "spanish"
+    ],
+    "fr": [
+     "langue",
+     "parle",
+     "anglais",
+     "espagnol"
+    ]
+   },
+   "a": {
+    "es": "Su web indica que se habla inglés y español.",
+    "ca": "La seva web indica que es parla anglès i castellà.",
+    "en": "Their website says English and Spanish are spoken.",
+    "fr": "Leur site indique que l'on parle anglais et espagnol."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "Idiomas que se hablan Inglés Español"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K13",
+   "topic": "comida y bebida",
+   "keys": {
+    "es": [
+     "restaurante",
+     "bar",
+     "cafeteria",
+     "cafe",
+     "comer",
+     "desayuno",
+     "snack",
+     "lounge"
+    ],
+    "ca": [
+     "restaurant",
+     " bar ",
+     "cafeteria",
+     "cafe",
+     "menjar",
+     "esmorzar",
+     "snack",
+     "lounge"
+    ],
+    "en": [
+     "restaurant",
+     " bar ",
+     "cafe",
+     "coffee",
+     "eat",
+     "breakfast",
+     "snack",
+     "lounge"
+    ],
+    "fr": [
+     "restaurant",
+     " bar ",
+     "cafeteria",
+     "cafe",
+     "manger",
+     "petit dejeuner",
+     "snack",
+     "lounge"
+    ]
+   },
+   "a": {
+    "es": "Su web menciona snack-bar, almuerzos para llevar, cafetería y bar, y un restaurante entre los servicios, sin dar horarios ni precios.",
+    "ca": "La seva web esmenta snack-bar, dinars per emportar, cafeteria i bar, i un restaurant entre els serveis, sense donar horaris ni preus.",
+    "en": "Their website lists a snack bar, takeaway lunches, a café and bar, and a restaurant among its services, without giving hours or prices.",
+    "fr": "Leur site mentionne un snack-bar, des déjeuners à emporter, une cafétéria et un bar, et un restaurant parmi les services, sans donner d'horaires ni de prix."
+   },
+   "sources": [
+    {
+     "url": "https://casadelacatedral.com/servicios/",
+     "quote": "Comida y bebida Snack-bar Almuerzos para llevar Cafetería y bar Restaurante"
+    },
+    {
+     "url": "https://casadelacatedral.com/nosotros/",
+     "quote": "dispone de un restaurante y bar o lounge"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
