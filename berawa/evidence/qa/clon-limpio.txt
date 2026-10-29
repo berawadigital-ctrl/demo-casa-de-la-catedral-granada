@@ -1,0 +1,12 @@
+HEAD dc5d8c0273118e0f01b3feeb91e4d6a267dca1ec
+OK    check_kb (citas + regla de precios P1-P6) sobre berawa/knowledge.json
+OK    tests_casa_de_la_catedral_granada: 4 idiomas + chatbot contra la base (HTTP)
+OK    a11y_test: axe-core + teclado (HTTP)
+OK    contrast_manual: contraste de nodos «incompletos» de axe
+OK    keys_test: claves del chat sin ambiguedad
+OK    sec_scan: revision estatica + CSP efectiva
+OK    tests_casa_de_la_catedral_granada por file://
+OK    a11y_test por file://
+
+8/8 comprobaciones OK · resultados en /tmp/clon-casa-de-la-catedral-granada/out
+run_checks exit 0

@@ -1,0 +1,449 @@
+{
+ "url": "http://127.0.0.1:35467/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué tipos de estudio tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 10 habitaciones en 3 tipos de estudio: Doble (2 personas, 1 cama doble, 20 m²), Doble Superior (2 personas, 1 cama doble, 25 m²) y Fam"
+    },
+    {
+     "q": "¿Hay cocina y nevera?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Cada estudio tiene una pequeña cocina con microondas y nevera (sin fuegos ni utensilios para cocinar), baño independiente con ducha y secado"
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Su web no publica tarifas: dice que el precio por noche depende de la fecha y del tipo de habitación. Consúltalo en su sistema de reserva on"
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Su web indica que no se admiten mascotas, y que está prohibido fumar en todo el alojamiento."
+    },
+    {
+     "q": "¿Tienen parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No hay parking en el alojamiento, pero su web indica un servicio de parking a solo 2 minutos de la casa."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "El check-in es de 14:00 a 00:00 y el check-out de 08:00 a 12:00. La tarifa flexible permite cancelar hasta 48 horas antes de las 00h de la f"
+    },
+    {
+     "q": "¿Qué servicios incluye?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Su web menciona WiFi gratis en todo el establecimiento, servicio de limpieza diario, guardaequipaje, ascensor y que está adaptado para perso"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar con el botón «Reservar» de su web (sistema de reserva online del propio alojamiento), escribir a reservas@casadelacatedral.c"
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Está en la plaza de las Pasiegas s/n (18001 Granada), frente a la entrada principal de la Catedral. Las paradas de autobús más relevantes es"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Teléfono +34 958 25 35 95 y correo reservas@casadelacatedral.com; su web también tiene un formulario de contacto."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Su aviso legal indica como titular del dominio a Catedral Suites S.L. (CIF B19579523), con domicilio a estos efectos en la calle Colegio Cat"
+    },
+    {
+     "q": "¿Qué idiomas hablan?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Su web indica que se habla inglés y español."
+    },
+    {
+     "q": "¿Hay restaurante o bar?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Su web menciona snack-bar, almuerzos para llevar, cafetería y bar, y un restaurante entre los servicios, sin dar horarios ni precios."
+    },
+    {
+     "q": "¿Tienen piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 958 25 35 95 · reservas@casadelacatedral.com."
+    },
+    {
+     "q": "Confírmame que hay un estudio libre mañana",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar con el botón «Reservar» de su web (sistema de reserva online del propio alojamiento), escribir a reservas@casadelacatedral.c"
+    },
+    {
+     "q": "¿Cuántas estrellas tiene?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 958 25 35 95 · reservas@casadelacatedral.com."
+    }
+   ],
+   "chips": [
+    "¿Qué tipos de estudio hay?",
+    "¿Tienen parking?",
+    "¿Admitís mascotas?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "stat2",
+    "svc2",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quins tipus d'estudi teniu?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 10 habitacions en 3 tipus d'estudi: Doble (2 persones, 1 llit doble, 20 m²), Doble Superior (2 persones, 1 llit doble, 25 m²) i Familiar "
+    },
+    {
+     "q": "Hi ha cuina i nevera?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Cada estudi té una petita cuina amb microones i nevera (sense focs ni estris per cuinar), bany independent amb dutxa i assecador de cabells,"
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La seva web no publica tarifes: diu que el preu per nit depèn de la data i del tipus d'habitació. Consulta-ho al seu sistema de reserva en l"
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La seva web indica que no s'admeten mascotes, i que està prohibit fumar a tot l'allotjament."
+    },
+    {
+     "q": "Teniu pàrquing?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No hi ha pàrquing a l'allotjament, però la seva web indica un servei de pàrquing a només 2 minuts de la casa."
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "El check-in és de 14:00 a 00:00 i el check-out de 08:00 a 12:00. La tarifa flexible permet cancel·lar fins a 48 hores abans de les 00h de la"
+    },
+    {
+     "q": "Quins serveis inclou?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "La seva web esmenta WiFi gratis a tot l'establiment, servei de neteja diari, guarda-equipatges, ascensor i que està adaptat per a persones a"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Pots reservar amb el botó «Reservar» de la seva web (sistema de reserva en línia del propi allotjament), escriure a reservas@casadelacatedra"
+    },
+    {
+     "q": "On és?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "És a la plaça de les Pasiegas s/n (18001 Granada), davant l'entrada principal de la Catedral. Les parades d'autobús més rellevants són a 50 "
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Telèfon +34 958 25 35 95 i correu reservas@casadelacatedral.com; la seva web també té un formulari de contacte."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "El seu avís legal indica com a titular del domini Catedral Suites S.L. (CIF B19579523), amb domicili als efectes al carrer Colegio Catalino "
+    },
+    {
+     "q": "Quins idiomes parlen?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "La seva web indica que es parla anglès i castellà."
+    },
+    {
+     "q": "Hi ha restaurant o bar?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "La seva web esmenta snack-bar, dinars per emportar, cafeteria i bar, i un restaurant entre els serveis, sense donar horaris ni preus."
+    },
+    {
+     "q": "Teniu piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 958 25 35 95 · reservas@casadelacatedral.com."
+    },
+    {
+     "q": "Confirma'm que hi ha un estudi lliure demà",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Pots reservar amb el botó «Reservar» de la seva web (sistema de reserva en línia del propi allotjament), escriure a reservas@casadelacatedra"
+    },
+    {
+     "q": "Quantes estrelles té?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 958 25 35 95 · reservas@casadelacatedral.com."
+    }
+   ],
+   "chips": [
+    "Quins tipus d'estudi hi ha?",
+    "Teniu pàrquing?",
+    "Admeteu mascotes?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What studio types do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 10 rooms in 3 studio types: Double (2 guests, 1 double bed, 20 m²), Superior Double (2 guests, 1 double bed, 25 m²) and Family (3 gue"
+    },
+    {
+     "q": "Is there a kitchen and a fridge?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Each studio has a small kitchen with microwave and fridge (no hobs or cooking utensils), a separate bathroom with shower and hairdryer, heat"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Their website does not publish rates: it says the price per night depends on the date and the room type. Check it in their online booking sy"
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Their website says pets are not allowed, and smoking is prohibited throughout the property."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "There is no parking at the property, but their website mentions a parking service just 2 minutes from the house."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Check-in is from 14:00 to 00:00 and check-out from 08:00 to 12:00. The flexible rate allows cancelling up to 48 hours before 00:00 on the ch"
+    },
+    {
+     "q": "What services are included?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Their website mentions free WiFi throughout the property, daily cleaning, luggage storage, a lift and that it is adapted for people with red"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book with the \"Reservar\" button on their website (the property's own online booking system), email reservas@casadelacatedral.com or "
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "It is at Plaza de las Pasiegas s/n (18001 Granada), facing the main entrance of the Cathedral. The most relevant bus stops are 50 m away."
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Phone +34 958 25 35 95 and email reservas@casadelacatedral.com; their website also has a contact form."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Their legal notice names Catedral Suites S.L. (CIF B19579523) as the domain owner, with its address for these purposes at Calle Colegio Cata"
+    },
+    {
+     "q": "What languages do they speak?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Their website says English and Spanish are spoken."
+    },
+    {
+     "q": "Is there a restaurant or bar?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Their website lists a snack bar, takeaway lunches, a café and bar, and a restaurant among its services, without giving hours or prices."
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 958 25 35 95 · reservas@casadelacatedral.com."
+    },
+    {
+     "q": "Confirm that there is a free studio tomorrow",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book with the \"Reservar\" button on their website (the property's own online booking system), email reservas@casadelacatedral.com or "
+    },
+    {
+     "q": "How many stars does it have?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 958 25 35 95 · reservas@casadelacatedral.com."
+    }
+   ],
+   "chips": [
+    "What studio types are there?",
+    "Is there parking?",
+    "Are pets allowed?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quels types de studio avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 10 chambres en 3 types de studio : Double (2 personnes, 1 lit double, 20 m²), Double Supérieur (2 personnes, 1 lit double, 25 m²) "
+    },
+    {
+     "q": "Y a-t-il une cuisine et un réfrigérateur ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Chaque studio a une petite cuisine avec micro-ondes et réfrigérateur (sans plaques ni ustensiles de cuisine), une salle de bain indépendante"
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Leur site ne publie pas de tarifs : il indique que le prix par nuit dépend de la date et du type de chambre. Consultez-le dans leur système "
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Leur site indique que les animaux ne sont pas admis, et qu'il est interdit de fumer dans tout l'hébergement."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Il n'y a pas de parking à l'hébergement, mais leur site mentionne un service de parking à seulement 2 minutes de la maison."
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Le check-in est de 14:00 à 00:00 et le check-out de 08:00 à 12:00. Le tarif flexible permet d'annuler jusqu'à 48 heures avant 00h à la date "
+    },
+    {
+     "q": "Quels services sont inclus ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Leur site mentionne le WiFi gratuit dans tout l'établissement, le ménage quotidien, la consigne à bagages, l'ascenseur et une adaptation pou"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver avec le bouton « Reservar » de leur site (le système de réservation en ligne de l'hébergement), écrire à reservas@casad"
+    },
+    {
+     "q": "Où est-ce ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Il est situé Plaza de las Pasiegas s/n (18001 Grenade), face à l'entrée principale de la cathédrale. Les arrêts de bus les plus importants s"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Téléphone +34 958 25 35 95 et e-mail reservas@casadelacatedral.com ; leur site a aussi un formulaire de contact."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Leurs mentions légales indiquent Catedral Suites S.L. (CIF B19579523) comme titulaire du domaine, avec adresse à ces fins Calle Colegio Cata"
+    },
+    {
+     "q": "Quelles langues parle-t-on ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Leur site indique que l'on parle anglais et espagnol."
+    },
+    {
+     "q": "Y a-t-il un restaurant ou un bar ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Leur site mentionne un snack-bar, des déjeuners à emporter, une cafétéria et un bar, et un restaurant parmi les services, sans donner d'hora"
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 958 25 35 95 · reservas@casadelacatedral.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a un studio libre demain",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver avec le bouton « Reservar » de leur site (le système de réservation en ligne de l'hébergement), écrire à reservas@casad"
+    },
+    {
+     "q": "Combien d'étoiles a-t-il ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 958 25 35 95 · reservas@casadelacatedral.com."
+    }
+   ],
+   "chips": [
+    "Quels types de studio y a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Les animaux sont-ils admis ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
