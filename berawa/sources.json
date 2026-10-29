@@ -1,0 +1,66 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://casadelacatedral.com/",
+ "read_at": "2026-10-29T00:50:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://casadelacatedral.com/",
+   "sha256": "c6893e4eb0492f0545e40006e36b101e1dce61fa184541ee0535c8c08ede1f88",
+   "chars": 7944
+  },
+  {
+   "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-doble-superior/",
+   "sha256": "42896cf1a8dbd8de947cdd4b4baee81501aebcef6ddbb6ecf06fdb2587900fc9",
+   "chars": 6821
+  },
+  {
+   "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-doble/",
+   "sha256": "5121ca6b7aee714207c6b9391270eb946ca5737173839364653230dc56f1a9f5",
+   "chars": 6757
+  },
+  {
+   "url": "https://casadelacatedral.com/apartamentos-estudio-granada/apartamento-estudio-familiar/",
+   "sha256": "6448018e08698fbd843e3ab44dff513f6f3aae8348bfcfc9fde9a5e400f2157f",
+   "chars": 6898
+  },
+  {
+   "url": "https://casadelacatedral.com/aviso-legal/",
+   "sha256": "5594349377bf7070c4a1ce180b5ff252be8de31bf7985f71b66913ae30893e13",
+   "chars": 13265
+  },
+  {
+   "url": "https://casadelacatedral.com/contacto/",
+   "sha256": "c972877c1971cff66106bff497beb79c667cd7ae63a4e7a71f5070d38e3970f1",
+   "chars": 2328
+  },
+  {
+   "url": "https://casadelacatedral.com/localizacion/",
+   "sha256": "ad5bdfb6a96b949ace12f4937d30a1c3603431a1c3abad908681530afc3f4ef5",
+   "chars": 2518
+  },
+  {
+   "url": "https://casadelacatedral.com/nosotros/",
+   "sha256": "d76fda93d16b142d903a910726fe39c525f553f2834212a3967b5936b52e7587",
+   "chars": 9150
+  },
+  {
+   "url": "https://casadelacatedral.com/preguntas-frecuentes/",
+   "sha256": "a032e8e30a9b14b87966d7652120e7878510d6a71453bf5e5e10200464d2ce38",
+   "chars": 4515
+  },
+  {
+   "url": "https://casadelacatedral.com/servicios/",
+   "sha256": "5e38694584aacf660e265bf8e1290f4e2f665d40db41f653150a7774dc8d4cdd",
+   "chars": 5020
+  }
+ ],
+ "other_pages_read": [
+  "https://casadelacatedral.com",
+  "https://casadelacatedral.com/apartamentos-estudio-granada/",
+  "https://casadelacatedral.com/comentarios/",
+  "https://casadelacatedral.com/politica-de-cookies/",
+  "https://casadelacatedral.com/politica-de-privacidad/",
+  "https://casadelacatedral.com/reservas/"
+ ]
+}
