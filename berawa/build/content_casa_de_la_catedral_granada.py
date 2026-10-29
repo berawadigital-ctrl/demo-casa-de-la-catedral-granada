@@ -64,7 +64,7 @@ D=dict(name='Casa de la Catedral',ac='#2f6b4a',ac2='#b5803a',ac2_a11y='#6d4a17',
  address='Plaza de las Pasiegas s/n · 18001 Granada',phones=['958 25 35 95'],emails=['reservas@casadelacatedral.com'],maps='Casa de la Catedral, Plaza de las Pasiegas, Granada',t=T)
 META=dict(repo='demo-casa-de-la-catedral-granada',name='Casa de la Catedral',legal_name='CATEDRAL SUITES, S.L.',registry_ids=['CIF B19579523'],
  url='https://casadelacatedral.com/',domain='casadelacatedral.com',municipality='Granada',province='Granada',sector='apartamentos turisticos en el centro historico',
- read_at='2026-10-29T00:50:00+01:00',created_at='2026-10-29T00:48:00+01:00',built_at='2026-10-29T01:05:00+01:00',audit_date='2026-10-29T00:48:00+01:00',
+ read_at='2026-10-29T00:50:00+01:00',created_at='2026-10-29T00:48:00+01:00',built_at='2026-10-29T00:56:00+01:00',audit_date='2026-10-29T00:48:00+01:00',
  rating=dict(value=4.5,coincide=['telefono','web','direccion'],date='2026-10-29T00:48:57+01:00',url='https://www.google.com/maps/place/Casa+de+la+Catedral/@37.1762348,-3.5997062,17z/data=!3m1!5s0xd71fcbf0767eed5:0x93fa8418000c39be!4m9!3m8!1s0xd71fcbfb45beb69:0x1412fbaddf911ccd!5m2!4m1!1i2!8m2!3d37.1762348!4d-3.5997062!16s%2Fg%2F11bcdhtbcb'),
  book=dict(mode='engine',url=BOOK['url'],note='Las reservas van al sistema de reserva online del propio alojamiento (casadelacatedral.icnea.net); la demo no construye ningun motor.'),
  first_of_type='primer tipo de negocio sin precedente: apartamentos turisticos urbanos en el centro historico (el modelo aprobado Cazorla Rural es alojamiento rural)')

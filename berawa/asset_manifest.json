@@ -1,7 +1,7 @@
 {
  "schema": "berawa-asset-manifest/1",
  "project": "demo-casa-de-la-catedral-granada",
- "generated_at": "2026-10-29T01:05:00+01:00",
+ "generated_at": "2026-10-29T00:56:00+01:00",
  "note": "Ninguna foto, logo, video ni testimonio del negocio. Las imagenes son ilustraciones propias generadas por codigo y se rotulan como ilustrativas.",
  "assets": [
   {
@@ -20,7 +20,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "ea559287a1eaedfa06b4cfbf9303ad75cdedf7f71cb7347ea7e788d9776388c3",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/hero.txt"
   },
   {
@@ -39,7 +39,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "ea559287a1eaedfa06b4cfbf9303ad75cdedf7f71cb7347ea7e788d9776388c3",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/hero.txt"
   },
   {
@@ -58,7 +58,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "390f5366ee6e6eab38bd2a018ab0963a49d9e5d304a2d1ad80f45173ca5be2e6",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/intro.txt"
   },
   {
@@ -77,7 +77,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "390f5366ee6e6eab38bd2a018ab0963a49d9e5d304a2d1ad80f45173ca5be2e6",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/intro.txt"
   },
   {
@@ -96,7 +96,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "bf637d0a4d70d1fadcf0cc263ba194bfa951fea09a2025d0d3d8b9b729f6f6f3",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/r1.txt"
   },
   {
@@ -115,7 +115,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "bf637d0a4d70d1fadcf0cc263ba194bfa951fea09a2025d0d3d8b9b729f6f6f3",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/r1.txt"
   },
   {
@@ -134,7 +134,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "62e248b48a03e4f80fedcc8aca1ed28091b9582aba341aabd539a4bf83d6f155",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/r2.txt"
   },
   {
@@ -153,7 +153,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "62e248b48a03e4f80fedcc8aca1ed28091b9582aba341aabd539a4bf83d6f155",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/r2.txt"
   },
   {
@@ -172,7 +172,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "25d74101f44934556a878fe20648874c6b6f93266cdfd0ae4a706fdf3d872079",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/r3.txt"
   },
   {
@@ -191,7 +191,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "25d74101f44934556a878fe20648874c6b6f93266cdfd0ae4a706fdf3d872079",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/r3.txt"
   },
   {
@@ -210,7 +210,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "0e87ef4e80e05863a0eb2d33c2987b7ddd735a6c2a8b3977ce819dd5765996d5",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g1.txt"
   },
   {
@@ -229,7 +229,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "0e87ef4e80e05863a0eb2d33c2987b7ddd735a6c2a8b3977ce819dd5765996d5",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g1.txt"
   },
   {
@@ -248,7 +248,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "808b42d0fbf9a6082d3254df754afdf745d0554c164f9f6eb6df5d0cf4ec2e42",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g2.txt"
   },
   {
@@ -267,7 +267,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "808b42d0fbf9a6082d3254df754afdf745d0554c164f9f6eb6df5d0cf4ec2e42",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g2.txt"
   },
   {
@@ -286,7 +286,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "b130657d9442dd68dc0b373eabe8458dbc6d8319827321d4dd0fc45a380779cd",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g3.txt"
   },
   {
@@ -305,7 +305,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "b130657d9442dd68dc0b373eabe8458dbc6d8319827321d4dd0fc45a380779cd",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g3.txt"
   },
   {
@@ -324,7 +324,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "7ddb02fe6ad4e562c57cf18561e89f74ab829432ca179812e1bd38dabc896275",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g4.txt"
   },
   {
@@ -343,7 +343,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "7ddb02fe6ad4e562c57cf18561e89f74ab829432ca179812e1bd38dabc896275",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g4.txt"
   },
   {
@@ -362,7 +362,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "a6954fb43b59d45750c780338400cf764132ee77b00b1aeb692feb0871337de3",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g5.txt"
   },
   {
@@ -381,7 +381,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "a6954fb43b59d45750c780338400cf764132ee77b00b1aeb692feb0871337de3",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g5.txt"
   },
   {
@@ -400,7 +400,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "fb93e09f5825f0bd0b6ec4df0b2597ea6c09501cab7bcdc12670310f2f62ab14",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g6.txt"
   },
   {
@@ -419,7 +419,7 @@
    "shown_label": "Imagen ilustrativa",
    "tool": "berawa/build/make_art.py (Pillow)",
    "prompt_sha256": "fb93e09f5825f0bd0b6ec4df0b2597ea6c09501cab7bcdc12670310f2f62ab14",
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/g6.txt"
   },
   {
@@ -434,7 +434,7 @@
    "attribution_text": null,
    "modified": false,
    "depicts_real_business": false,
-   "retrieved_at": "2026-10-29T01:05:00+01:00",
+   "retrieved_at": "2026-10-29T00:56:00+01:00",
    "evidence": "berawa/evidence/assets/font.txt"
   }
  ]
